@@ -1,3 +1,2 @@
 # Unifox-project
-Responsive project
-########### the last project I have made
+The last Responsive project I have made.
